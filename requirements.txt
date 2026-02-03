@@ -1,0 +1,7 @@
+faiss-cpu
+sentence-transformers
+numpy
+pdfplumber
+requests
+fastapi
+uvicorn
